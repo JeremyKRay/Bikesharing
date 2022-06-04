@@ -8,13 +8,13 @@ Also, the visualizations can be seen in the images in the Results section below.
 ## Results
 Please see the visualizations and their explanations below.
 
-![Checkout_Times_for_Users.png](https://github.com/JeremyKRay/bikesharing/blob/main/Checkout%20Times%20for%20Users.png).
+![Checkout_Times_for_Users.png](https://github.com/JeremyKRay/bikesharing/blob/main/Checkout%20Times%20for%20Users.png)
 This visualization shows that the vast majority of bikes were checked out for relatively short periods of time, less than 10 minutes, with the peak around 6 mins.
 
-![Checkout Times by Gender.png](https://github.com/JeremyKRay/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png).
+![Checkout Times by Gender.png](https://github.com/JeremyKRay/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
 This visualization shows the same but that the vast majority of bikes checked out were by males.
 
-![Image Link(Gender_Breakdown.png)](https://github.com/JeremyKRay/bikesharing/blob/main/Gender%20Breakdown.png).
+![Image Link(Gender_Breakdown.png)](https://github.com/JeremyKRay/bikesharing/blob/main/Gender%20Breakdown.png)
 This pie chart confirms that the vast majority of ride share users are male.
 
 ![Image Link(Trips by Weekday per Hour.png).](https://github.com/JeremyKRay/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hour.png)
@@ -26,7 +26,7 @@ This heat map confirms this trend, but also by gender, reiterating that males ar
 ![Image Link(User Trips by Gender Weekday.png).](https://github.com/JeremyKRay/bikesharing/blob/main/User%20Trips%20by%20Gender%20Weekday.png)
 This heat map shows similar information but by weekday and includes whether the bike share riders are customers or subscribers. Subscribers are responsible for most of the trips and they occur Monday/Tuesday and Thursday/Friday. 
 
-![Image Link(Top_Ending_Locations.png).](https://github.com/JeremyKRay/bikesharing/blob/main/Top%20Ending%20Locations.png).
+![Image Link(Top_Ending_Locations.png).](https://github.com/JeremyKRay/bikesharing/blob/main/Top%20Ending%20Locations.png)
 This bubble chart shows the end locations of each of the bike share trips. This is important if one also knows the land use, zoning, and demographics of the people living and working in this area of New York City. Similar analyses can be performed for Des Moines. 
 
 ## Summary
