@@ -11,7 +11,7 @@ Please see the visualizations and their explanations below.
 ![Checkout_Times_for_Users.png](https://github.com/JeremyKRay/bikesharing/blob/main/Checkout%20Times%20for%20Users.png).
 ![[Image Link](Gender_Breakdown.png)](https://github.com/JeremyKRay/bikesharing/blob/main/Gender%20Breakdown.png).
 [![Image Link](Top_Ending_Locations.png).](https://github.com/JeremyKRay/bikesharing/blob/main/Top%20Ending%20Locations.png).
-![Image Link](Trips_by_Gender (Weekday by Hour).png).
+[![Image Link](Trips_by_Gender (Weekday by Hour).png).](https://github.com/JeremyKRay/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20by%20Hour).png)
 ![Image Link](Trips by Weekday per Hour.png).
 ![Image Link](User Trips by Gender Weekday.png).
 ## Summary
