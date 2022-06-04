@@ -7,11 +7,11 @@ Also, the visualizations can be seen in the images in the Results section below.
 
 ## Results
 Please see the visualizations and their explanations below.
-![Checkout Times by Gender](Checkout Times by Gender.png).
-![Image Link](Checkout Times for Users.png).
-![Image Link](Gender Breakdown.png).
-![Image Link](Top Ending Locations.png).
-![Image Link](Trips by Gender (Weekday by Hour).png).
+![Checkout Times by Gender](Checkout_Times_by_Gender.png).
+![Image Link](Checkout_Times_for_Users.png).
+![Image Link](Gender_Breakdown.png).
+![Image Link](Top_Ending_Locations.png).
+![Image Link](Trips_by_Gender (Weekday by Hour).png).
 ![Image Link](Trips by Weekday per Hour.png).
 ![Image Link](User Trips by Gender Weekday.png).
 ## Summary
