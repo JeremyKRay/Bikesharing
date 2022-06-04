@@ -1,6 +1,6 @@
 # NYC Bike Sharing Analysis
 ## Overview of the Analysis
-The purpose of this analysis was to provide a group of shareholders an analysis of New York City ridesharing data so that they can provide a thorough proposal to investors for a bike sharing program in Des Moines, Iowa. Tableau was used to create several visualizations of a very large dataset of rideshare data that includes trip location, trip duration, and rider type and gender. A story was created in Tableau that includes each of the visualizations. The story can be viewed by clicking the link below. 
+The purpose of this analysis was to provide a group of shareholders an analysis of New York City ridesharing data so that they can provide a thorough proposal to investors for a bike sharing program in Des Moines, Iowa. Tableau was used to create several visualizations of a very large dataset of bike share data that includes trip location, trip duration, and rider type and gender. A story was created in Tableau that includes each of the visualizations. The story can be viewed by clicking the link below. 
 [Link to Tableau Story](https://public.tableau.com/app/profile/jeremy6008/viz/NYCBikeSharingAnalysis_16543604046310/NYCBikeSharingAnalysis?publish=yes)
 
 Also, the visualizations can be seen in the images in the Results section below.
