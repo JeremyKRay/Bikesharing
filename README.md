@@ -15,7 +15,7 @@ This visualization shows that the vast majority of bikes were checked out for re
 This visualization shows the same but that the vast majority of bikes checked out were by males.
 
 ![Image Link(Gender_Breakdown.png)](https://github.com/JeremyKRay/bikesharing/blob/main/Gender%20Breakdown.png)
-This pie chart confirms that the vast majority of ride share users are male.
+This pie chart confirms that the vast majority of bike share users are male.
 
 ![Image Link(Trips by Weekday per Hour.png).](https://github.com/JeremyKRay/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hour.png)
 This heat map shows that the majority of trips are taken during peak commute hours, to and from work, 6-9 am and 4-7 pm.
