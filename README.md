@@ -7,7 +7,7 @@ Also, the visualizations can be seen in the images in the Results section below.
 
 ## Results
 Please see the visualizations and their explanations below.
-![Checkout Times by Gender](Checkout_Times_by_Gender.png).
+![Checkout Times by Gender](Checkout Times by Gender.png).
 ![Image Link](Checkout_Times_for_Users.png).
 ![Image Link](Gender_Breakdown.png).
 ![Image Link](Top_Ending_Locations.png).
