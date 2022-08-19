@@ -8,6 +8,10 @@ Also, the visualizations can be seen in the images in the Results section below.
 ## Technology Used
 
 ![download](https://user-images.githubusercontent.com/98500639/185662317-21234bb5-da38-43dd-85e2-270dbd8502b6.jpg)
+![download](https://user-images.githubusercontent.com/98500639/185662675-e8f4e99d-ba3b-4907-8724-41afed750c4d.png)
+![download](https://user-images.githubusercontent.com/98500639/185662726-5071c755-7bb7-466f-8811-bc19846dbe26.png)
+![download](https://user-images.githubusercontent.com/98500639/185662809-d4c0b463-816c-4452-a8f2-cb5f2c1bb1b4.png)
+
 
 ## Results
 Please see the visualizations and their explanations below.
