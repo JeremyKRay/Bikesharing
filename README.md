@@ -31,7 +31,7 @@ This heat map shows that the majority of trips are taken during peak commute hou
 ![Image Link(Trips_by_Gender (Weekday by Hour).png).](https://github.com/JeremyKRay/Bikesharing/blob/c0cf33b5d52a7f0fab740cc102688385b78d8145/Images/Trips%20by%20Gender%20(Weekday%20by%20Hour).png)
 This heat map confirms this trend, but also by gender, reiterating that males are responsible for most trips and that they occur at peak commute times.
 
-![Image Link(User Trips by Gender Weekday.png).](https://github.com/JeremyKRay/bikesharing/blob/main/User%20Trips%20by%20Gender%20Weekday.png)
+![Image Link(User Trips by Gender Weekday.png).](https://github.com/JeremyKRay/Bikesharing/blob/c2ce56c2095c61f5daedb811f8461dee5b04a5a7/Images/User%20Trips%20by%20Gender%20Weekday.png))
 This heat map shows similar information but by weekday and includes whether the bike share riders are customers or subscribers. Subscribers are responsible for most of the trips and they occur Monday/Tuesday and Thursday/Friday. 
 
 ![Image Link(Top_Ending_Locations.png).](https://github.com/JeremyKRay/bikesharing/blob/main/Top%20Ending%20Locations.png)
