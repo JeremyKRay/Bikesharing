@@ -22,7 +22,7 @@ This visualization shows that the vast majority of bikes were checked out for re
 ![Checkout Times by Gender.png](https://github.com/JeremyKRay/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
 This visualization shows the same but that the vast majority of bikes checked out were by males.
 
-![Image Link(Gender_Breakdown.png)](https://github.com/JeremyKRay/bikesharing/blob/main/Gender%20Breakdown.png)
+![Image Link(Gender_Breakdown.png)](https://github.com/JeremyKRay/Bikesharing/blob/ea4bed2c05b52f71061f3f7db95e98c5781aa303/Images/Gender%20Breakdown.png)
 This pie chart confirms that the vast majority of bike share users are male.
 
 ![Image Link(Trips by Weekday per Hour.png).](https://github.com/JeremyKRay/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hour.png)
