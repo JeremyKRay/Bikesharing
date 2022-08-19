@@ -16,7 +16,7 @@ Also, the visualizations can be seen in the images in the Results section below.
 ## Results
 Please see the visualizations and their explanations below.
 
-![Checkout_Times_for_Users.png](https://github.com/JeremyKRay/bikesharing/blob/main/Checkout%20Times%20for%20Users.png)
+![Checkout_Times_for_Users.png](https://github.com/JeremyKRay/Bikesharing/blob/0352af55609d7644b92d8ddf0d2cab7f9b7d0a10/Images/Checkout%20Times%20for%20Users.png)
 This visualization shows that the vast majority of bikes were checked out for relatively short periods of time, less than 10 minutes, with the peak around 6 mins.
 
 ![Checkout Times by Gender.png](https://github.com/JeremyKRay/Bikesharing/blob/0443c21ed6e9a2f6e907afc880855e4084d53979/Images/Checkout%20Times%20by%20Gender.png)
