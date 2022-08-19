@@ -19,7 +19,7 @@ Please see the visualizations and their explanations below.
 ![Checkout_Times_for_Users.png](https://github.com/JeremyKRay/bikesharing/blob/main/Checkout%20Times%20for%20Users.png)
 This visualization shows that the vast majority of bikes were checked out for relatively short periods of time, less than 10 minutes, with the peak around 6 mins.
 
-![Checkout Times by Gender.png](https://github.com/JeremyKRay/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
+![Checkout Times by Gender.png](https://github.com/JeremyKRay/Bikesharing/blob/0443c21ed6e9a2f6e907afc880855e4084d53979/Images/Checkout%20Times%20by%20Gender.png)
 This visualization shows the same but that the vast majority of bikes checked out were by males.
 
 ![Image Link(Gender_Breakdown.png)](https://github.com/JeremyKRay/Bikesharing/blob/ea4bed2c05b52f71061f3f7db95e98c5781aa303/Images/Gender%20Breakdown.png)
